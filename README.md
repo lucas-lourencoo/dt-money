@@ -6,7 +6,7 @@
 	✅ Finalizado ✅
 </h4>
 
-<img src="./.github/capa.png" alt="Todo List" />
+<img src="./public/capa.png" alt="Todo List" />
 
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
